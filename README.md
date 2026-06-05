@@ -1,8 +1,6 @@
-这是大陆程序员大辉为了下载油管广告视频而做的小程序，第一个程序，很简单，以后再设计高级的
-（Written by Da Hui, a software developer based in mainland China,  
-this project is aimed at extracting YouTube ad videos.  
-It represents my first step into tool-building, kept deliberately simple,  
-with more sophisticated versions planned ahead.）
+这是大陆程序员大辉为了下载油管广告视频而做的小程序，
+第一个程序，很简单，以后再设计高级的
+（Written by Da Hui, a software developer based in mainland China,  this project is aimed at extracting YouTube ad videos.  It represents my first step into tool-building, kept deliberately simple,  with more sophisticated versions planned ahead.）
 # YouTube Ad Video Extractor 🎯
 
 从浏览器复制的 YouTube 调试信息中，  
