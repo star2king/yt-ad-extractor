@@ -1,6 +1,8 @@
-下面是已经为你逐行加上英文翻译（括号内）的版本，  
-✅ 语法仍然是 标准 Markdown，可以直接整体覆盖到你的 README.md 中。
-
+这是大陆程序员大辉为了下载油管广告视频而做的小程序，第一个程序，很简单，以后再设计高级的
+（Written by Da Hui, a software developer based in mainland China,  
+this project is aimed at extracting YouTube ad videos.  
+It represents my first step into tool-building, kept deliberately simple,  
+with more sophisticated versions planned ahead.）
 # YouTube Ad Video Extractor 🎯
 
 从浏览器复制的 YouTube 调试信息中，  
