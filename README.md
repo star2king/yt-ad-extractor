@@ -30,7 +30,11 @@ bash python extract.py
 然后粘贴调试信息，结束按：
 (Paste the debugging information, then finish by pressing:)
 
-Windows：Ctrl + Z → 回车 (Enter)
+Windows（exe 直接运行）：
+1、将油管广告的调试信息复制到剪贴板
+2、在exe文件中运行，粘贴，会自动生成广告的油管视频地址，
+3、利用下载油管视频的工具下载视频
+4、发布栏中有MT工具，解压后使用
 macOS / Linux：Ctrl + D
 示例输出
 (Example Output)
